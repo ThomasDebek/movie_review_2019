@@ -19,6 +19,7 @@ gem 'jbuilder', '~> 2.5'
 
 #mine
 gem 'devise', '~> 4.6'
+gem 'paperclip', '~> 6.1'
 
 
 
