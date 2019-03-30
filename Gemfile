@@ -20,6 +20,8 @@ gem 'jbuilder', '~> 2.5'
 #mine
 gem 'devise', '~> 4.6'
 gem 'paperclip', '~> 6.1'
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+
 
 
 
