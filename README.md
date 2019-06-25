@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+branch search 
+-gem 'searchkick', '~> 4.0'
+-brew cask install homebrew/cask-versions/adoptopenjdk8
+-brew install elasticsearch
+- brew services start elasticsearch
+-rails s
+-http://localhost:9200

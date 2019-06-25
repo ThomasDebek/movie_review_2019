@@ -22,7 +22,7 @@ gem 'devise', '~> 4.6'
 gem 'paperclip', '~> 6.1'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'jquery-rails'
-
+gem 'searchkick', '~> 4.0'
 
 
 
