@@ -31,3 +31,5 @@ branch search
 - brew services start elasticsearch
 -rails s
 -http://localhost:9200
+- added searchkick to model Movie
+- rake searchkick:reindex CLASS=Movie
